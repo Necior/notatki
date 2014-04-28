@@ -45,8 +45,6 @@ $$f(x)=f(-x)$$
 
 $$f(-x)=-f(x)$$
 
----
-
 ## Metoda wyznaczników
 
 Dany jest układ równań:
@@ -88,7 +86,10 @@ $$W = 0 \land W_x = 0 \land W_y = 0$$
 Układ sprzeczny (brak rozwiązań):
 $$W = 0 \land (W_x \neq 0 \lor W_y \neq 0)$$
 
----
+## Trygonometria
+
+$$sin \alpha + sin \beta = 2sin \frac{\alpha + \beta}{2} cos \frac{\alpha - \beta}{2}$$
+$$cos \alpha + cos \beta = 2cos \frac{\alpha + \beta}{2} cos \frac{\alpha - \beta}{2}$$
 
 ## Inne
 
@@ -109,5 +110,3 @@ $$S = 180^{\circ} (n-2)$$
 $$p = \frac{n(n-3)}{2}$$
 
 (_tip_: ten wzór to zwykła \#kombinatoryka - wybieramy jeden wierzchołek, drugi wierzchołek (inny niż wybrany i taki, który nie jest wierzchołkiem "obok"), dzielimy na 2, bo kolejność nie ma znaczenia i voilà)
-
----
