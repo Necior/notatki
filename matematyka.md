@@ -82,3 +82,17 @@ $$W = 0 \land (W_x \neq 0 \lor W_y \neq 0)$$
 $$tg \alpha = \left|\frac{a_1 - a_2}{1 + a_1 a_2}\right|$$
 
 ---
+
+> Podaj wzór na sumę kątów $n$-kąta wypukłego.
+
+$$S = 180^{\circ} (n-2)$$
+
+---
+
+> Podaj wzór na ilość przekątnych w $n$-kącie.
+
+$$p = \frac{n(n-3)}{2}$$
+
+(_tip_: ten wzór to zwykła \#kombinatoryka - wybieramy jeden wierzchołek, drugi wierzchołek (inny niż wybrany i taki, który nie jest wierzchołkiem "obok"), dzielimy na 2, bo kolejność nie ma znaczenia i voilà)
+
+---
