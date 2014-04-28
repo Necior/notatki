@@ -88,8 +88,8 @@ $$W = 0 \land (W_x \neq 0 \lor W_y \neq 0)$$
 
 ## Trygonometria
 
-$$sin \alpha + sin \beta = 2sin \frac{\alpha + \beta}{2} cos \frac{\alpha - \beta}{2}$$
-$$cos \alpha + cos \beta = 2cos \frac{\alpha + \beta}{2} cos \frac{\alpha - \beta}{2}$$
+$$\sin \alpha + \sin \beta = 2\sin \frac{\alpha + \beta}{2} \cos \frac{\alpha - \beta}{2}$$
+$$\cos \alpha + \cos \beta = 2\cos \frac{\alpha + \beta}{2} \cos \frac{\alpha - \beta}{2}$$
 
 ## Inne
 
