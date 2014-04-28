@@ -109,4 +109,4 @@ $$S = 180^{\circ} (n-2)$$
 
 $$p = \frac{n(n-3)}{2}$$
 
-(_tip_: ten wzór to zwykła \#kombinatoryka - wybieramy jeden wierzchołek, drugi wierzchołek (inny niż wybrany i taki, który nie jest wierzchołkiem "obok"), dzielimy na 2, bo kolejność nie ma znaczenia i voilà)
+(_tip_: ten wzór to zwykła \#kombinatoryka - wybieramy jeden wierzchołek, drugi wierzchołek (inny niż wybrany i taki, który nie jest wierzchołkiem "obok"), dzielimy na 2, bo kolejność nie ma znaczenia i voilà.)
