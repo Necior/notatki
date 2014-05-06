@@ -29,7 +29,7 @@ garść porad, aby zbliżyć się do 100%. Źródła: wiedza własna, internety.
 	* _the main benefit_
 	* _on the other hand_
 	* _however, opponents claim that_
-	* _in contract_
+	* _in contrast_
 	* _what is more_
 	* _moreover_
 * zakończenie
