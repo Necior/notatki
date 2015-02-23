@@ -37,8 +37,7 @@ garść porad, aby zbliżyć się do 100%. Źródła: wiedza własna, internety.
 	* _to sum up_
 	* _overall_
 	
-## Epilog[^1]
+## Epilog
 
 Pamiętajcie, że można mieć do 5% wyrazów rozprawki zapisanych z błędem i nie stracić punktów. To ponad 10 słów, sporo! Ja na próbnej nie potrafiłem napisać poprawnie "_career_", ale zamiast szukać synonimu świadomie pisałem z błędem.
 
-[^1]: duże słowo jak na takie podsumowanie, prawda?
