@@ -197,7 +197,7 @@ v =
 
 > v(3, 1)
 ans =  3
-0> v(3)
+> v(3)
 ans =  3
 ```
 
@@ -228,7 +228,7 @@ ans =
 
 Porównywanie macierzy odbywa się po elementach i zwraca macierz:
 ```
-[3 -2; 5 0] <= [3 7; 2 5]
+> [3 -2; 5 0] <= [3 7; 2 5]
 ans =
 
    1   1
