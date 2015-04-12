@@ -9,7 +9,7 @@ MATLAB będzie tematem pierwszych 6 zajęć:
 
 Uwaga: z co najmniej 3 zajęć trzeba mieć co najmniej 1 punkt. Łącznie należy uzyskać co najmniej 4 punkty.
 
-Następnie będzie 9 laboratoriów poświęconych ściślej metodom numerycznym (interpolacja, całkowanie, miejsca zerowe funkcji, rozwiązywanie układów (nie)liniowych). Do zdobycia 3 punkty za 7 zajęć. 2 laboratoria będą poprawkowe (wtedy do zdobycia są 2 punkty, nie 3, za poprawiane zajęcia). Na tych zajęciach można pracować w dowolnym dostępnym środowisku, jednak w MATLAB-ie najwygodniej.
+Następnie będzie 9 laboratoriów poświęconych ściślej metodom numerycznym (interpolacja, całkowanie, miejsca zerowe funkcji, rozwiązywanie układów (nie)liniowych). Do zdobycia po 3 punkty za 7 zajęć. 2 laboratoria będą poprawkowe (wtedy do zdobycia są 2 punkty, nie 3, za poprawiane zajęcia). Na tych zajęciach można pracować w dowolnym dostępnym środowisku, jednak w MATLAB-ie najwygodniej.
 
 Uwaga: z co najmniej 6 zajęć trzeba mieć co najmniej 1 punkt. Łącznie należy uzyskać co najmniej 10 punktów.
 
