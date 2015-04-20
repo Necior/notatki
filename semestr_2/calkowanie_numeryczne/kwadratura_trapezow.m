@@ -1,5 +1,6 @@
 function [ pole ] = kwadratura_trapezow( m )
-% Kwadratura trapezów używająca m przedziałów dla funkcji cos²(x/2)
+% Kwadratura trapezów używająca m przedziałów.
+% Tutaj dla funkcji cos²(x/2) na przedziale [0, 1].
 
 pole = 0;
 przedzialy = 0:1/m:1;

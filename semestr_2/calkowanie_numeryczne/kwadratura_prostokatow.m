@@ -1,5 +1,6 @@
 function [ pole ] = kwadratura_prostokatow( m )
-% Kwadratura prostokątów (z punktem środkowym) używająca m przedziałów dla funkcji cos²(x/2)
+% Kwadratura prostokątów (z punktem środkowym) używająca m przedziałów.
+% Tutaj dla funkcji cos²(x/2) na przedziale [0, 1].
 
 pole = 0;
 przedzialy = 0:1/m:1;
