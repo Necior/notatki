@@ -105,7 +105,7 @@ $$S = 180^{\circ} (n-2)$$
 
 ---
 
-> Podaj wzór na ilość przekątnych w $n$-kącie.
+> Podaj wzór na liczbę przekątnych w $n$-kącie.
 
 $$p = \frac{n(n-3)}{2}$$
 
