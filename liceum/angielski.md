@@ -1,7 +1,5 @@
 # Rozszerzona matura z języka angielskiego
 
-garść porad, aby zbliżyć się do 100%. Źródła: wiedza własna, internety.
-
 ## Rozprawka - schemat i proporcje
 
 * Wstęp (15%)

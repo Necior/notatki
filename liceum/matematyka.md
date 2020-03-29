@@ -1,7 +1,5 @@
 # Przydatne wzory na maturę z matematyki, których nie ma w tablicach
 
-Widzisz błąd? Brakuje jakiegoś wzoru? Literówka? Napisz do mnie na Facebooku lub emailem (adrian _at_ sadlocha _dot_ eu), a poprawię ten dokument.
-
 ## Wektory
 
 > Dany jest wektor $\vec{DE} = [A, B]$. Podaj równanie prostej prostopadłej do tego wektora.
